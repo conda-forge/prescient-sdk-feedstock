@@ -147,4 +147,5 @@ Feedstock Maintainers
 
 * [@gnieuwenhuis](https://github.com/gnieuwenhuis/)
 * [@michaelconnor00](https://github.com/michaelconnor00/)
+* [@underchemist](https://github.com/underchemist/)
 
