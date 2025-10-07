@@ -1,5 +1,5 @@
 {% set name = "prescient-sdk" %}
-{% set version = "0.2.0" %}
+{% set version = "0.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/prescient_sdk-{{ version }}.tar.gz
-  sha256: 5937f75bb6d466b821ce1b29293b82c7b18a8c67f98291cb4a14061dd9b743ed
+  sha256: 8ccce0e76e640799d1391c94f38144e5a66a8fbb880d4f9659cbeca549a6307b
 
 build:
   noarch: python
